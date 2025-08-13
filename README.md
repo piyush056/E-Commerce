@@ -1,5 +1,7 @@
 # Flicksy - E-Commerce Web Application
 
+### DB Schema : https://dbdiagram.io/d/E-Commerce-689c9c1f1d75ee360a6fd791
+
 A full-stack e-commerce application built with **Java**, **Spring Boot**, **Spring Data JPA**, and **MySQL** for the backend, and a custom UI using **HTML**, **CSS**, and **JavaScript** for the frontend.
 
 ## 🚀 Features
